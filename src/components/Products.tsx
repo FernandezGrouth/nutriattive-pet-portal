@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Dog, Package, Cat, DogBowl } from "lucide-react";
+import { Dog, Package, Cat, PawPrint } from "lucide-react";
 
 const products = [
   {
@@ -14,7 +14,7 @@ const products = [
     desc: "Sabor, diversão e saúde em cada mordida.",
   },
   {
-    icon: <DogBowl size={36} className="text-brandGreen" />,
+    icon: <PawPrint size={36} className="text-brandGreen" />,
     title: "Vitaminas",
     desc: "Força, energia e vitalidade para todos os animais.",
   },

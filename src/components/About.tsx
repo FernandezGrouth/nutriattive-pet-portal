@@ -1,11 +1,11 @@
 
 import React from "react";
-import { Dog, Cat, Bird, DogBowl } from "lucide-react";
+import { Dog, Cat, PawPrint, Bird } from "lucide-react";
 
 const icons = [
   { Icon: Dog, label: "Cães" },
   { Icon: Cat, label: "Gatos" },
-  { Icon: DogBowl, label: "Cavalos" },
+  { Icon: PawPrint, label: "Cavalos" },
   { Icon: Bird, label: "Aves" },
 ];
 
